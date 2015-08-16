@@ -3,10 +3,10 @@
 # Site Settings
 title: 						"Tres en Ghana"
 email: 						"tresenghana@outlook.com"
-description: 			"Thoghts, stories and ideas"
+description: 			"Thoughts, stories and ideas"
 baseurl: 					""
 url: 						  "http://tresenghana.github.io"
-logourl: 					"/assets/img/bloglogo.jpg"
+logourl: 					"/assets/img/bloglogo.png"
 fa-logo: 					"fa-paper-plane-o"
 paginate: 				5
 
