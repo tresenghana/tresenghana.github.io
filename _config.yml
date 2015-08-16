@@ -1,0 +1,53 @@
+
+
+# Site Settings
+title: 						"Tres en Ghana"
+email: 						"tresenghana@outlook.com"
+description: 			"Thoghts, stories and ideas"
+baseurl: 					""
+url: 						  "http://tresenghana.github.io"
+logourl: 					"/assets/img/bloglogo.jpg"
+fa-logo: 					"fa-paper-plane-o"
+paginate: 				5
+
+
+# Author Settings
+author_name: 				"Luisito"
+author_url: 				"http://tresenghana.github.io"
+author_bio: 				"Under maintenance."
+author_email: 			"tresenghana@outlook.com"
+author_image: 			"/assets/img/authorimage.jpg"
+
+
+# Social Settings
+twitter_url: 				  "http://twitter.com"
+facebook_url: 			  "http://facebook.com"
+github_url:  				  "http://github.com"
+youtube_url:  			  "http://youtube.com"
+dribbble_url:  				"http://dribbble.com"
+googleplus_url: 			"http://google.com/plus"
+instagram_url:  			"http://instagram.com"
+pinterest_url:  			"http://pinterest.com"
+linkedin_url:  				"http://linkedin.com"
+
+
+# Theme Settings
+theme_disqus_shortname: 	"tresenghana"
+theme_google_comments: 		false
+theme_analytics_id: 		  ""
+theme_analytics_domain: 	""
+theme_reading_time: 		  true
+theme_autoload_comments: 	false
+theme_always_show_nav: 		false
+
+
+# SASS Settings
+# DO NOT MODIFY
+sass:
+ sass_dir: "assets/css/"
+ style: :compressed
+
+
+# Build Settings
+markdown: 					kramdown
+permalink: 					pretty
